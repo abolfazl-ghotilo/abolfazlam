@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abolfazlghotilo</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 👨‍💻 All of my projects are available at (https://github.com/abolfazl-ghotilo)
+- 👨‍💻 All of my projects are available at https://github.com/abolfazl-ghotilo
 
 - 📫 How to reach me **abolfazlghotilo@gmail.com**
 
