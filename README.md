@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/abolfazl-ghotilo
 
+- 🌱 I’m currently learning **React**
+
 - 📫 How to reach me **abolfazlghotilo@gmail.com**
 
 - ⚡ Fun fact **Your fact is a lie!**
